@@ -1,0 +1,3 @@
+/home/isro/Desktop/cv_assignment_1/build/CMakeFiles/rebuild_cache.dir
+/home/isro/Desktop/cv_assignment_1/build/CMakeFiles/exec.dir
+/home/isro/Desktop/cv_assignment_1/build/CMakeFiles/edit_cache.dir
